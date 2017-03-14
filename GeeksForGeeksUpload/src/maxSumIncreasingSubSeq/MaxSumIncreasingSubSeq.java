@@ -48,7 +48,7 @@ public class MaxSumIncreasingSubSeq {
 	}
 	
 	public static void main(String[] args) {
-		int arr[] = {4,1, 2, 3,4,5,6,50,1,2,3,4,6,100};
+		int arr[] = {4,1, 2, 3,4,5,6,50,1,2,3,4,6,98};
 		System.out.println(maxSumIncreasing(arr, arr.length));
 	}
 
